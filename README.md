@@ -1,4 +1,4 @@
-#This first day in React
+<strong>This first day in React</strong>
 <strong>Primitive Data Binding</strong>
 
 all of the job is done no professionaly with just googling and reading docs <br />
